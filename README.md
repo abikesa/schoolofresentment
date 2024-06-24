@@ -1,31 +1,13 @@
-                                  1. Root
-                                         \
-                        2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression 
-                                         /
-                                         3. Diatonic
+                      1. Digital Information
+                                            \
+              2. Azure's Computing Power -> 4. Public Square or Discussion Forum -> 5. Human Expertise & Leadership e.g. Sam Altman -> 6. Dominance of AAA-MM-N
+                                            /
+                                            3. Nvidia-designed GPUs
 
 
+### Dionysus 1, 2, 3
+### Sing O Muse 4
+### Apollo 5, 6
 
 
-# White
-### Receive & with Simplicity
-   1. Root
-   2. Pentatonic
-     
-# Black
-### Know & be Reverent
-   3. Diatonic
-   4. Pentatonic
-      
-# Fab
-### Do & on Time
-   5. Temperament
-   6. Expression
-      - Self
-      - Neighbor
-         - 1960s Civil Rights
-            - Blacks
-            - New Hollywood 
-         - 1970s Female Rights
-            - Martha Stewart 
-      - God
+<iframe src="https://www.washingtonpost.com/outlook/2019/10/24/how-harold-bloom-misunderstood-fall-humanities/" width="100%" height="100%" style="border:none"></iframe>
