@@ -1,21 +1,13 @@
-<h1>1. Digital Information</h1>
-<div style="display: flex; justify-content: space-around;">
-    <div style="width: 30%; text-align: center;">
-        <h2>2. Azure's Computing Power</h2>
-        <p> -> </p>
-        <h2>4. Public Square or Discussion Forum</h2>
-        <p> -> </p>
-        <h2>5. Human Expertise & Leadership e.g. Sam Altman</h2>
-        <p> -> </p>
-        <h2>6. Dominance of AAA-MM-N</h2>
-    </div>
-    <div style="width: 30%; text-align: center;">
-        <h2>3. Nvidia-designed GPUs</h2>
-    </div>
-</div>
 
-<h3>Dionysus 1, 2, 3</h3>
-<h3>Sing O Muse 4</h3>
-<h3>Apollo 5, 6</h3>
+                  1. Digital Information
+                                        \
+          2. Azure's Computing Power -> 4. Public Square or Discussion Forum -> 5. Human Expertise & Leadership e.g. Sam Altman -> 6. Dominance of AAA-MM-N
+                                        /
+                                        3. Nvidia-designed GPUs
+                    
+### Dionysus 1, 2, 3
 
-<iframe src="https://www.washingtonpost.com/outlook/2019/10/24/how-harold-bloom-misunderstood-fall-humanities/" width="100%" height="600px" style="border:none"></iframe>
+### Sing O Muse 4
+
+### Apollo [5](https://www.washingtontimes.com/news/2019/oct/16/harold-bloom-against-the-school-of-resentment/)[,](https://www.theguardian.com/commentisfree/2019/oct/20/harold-bloom-defence-of-western-greats-blinded-him-to-other-cultures) [6](https://www.washingtonpost.com/outlook/2019/10/24/how-harold-bloom-misunderstood-fall-humanities/)
+ 
