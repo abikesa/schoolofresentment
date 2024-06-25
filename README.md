@@ -9,5 +9,5 @@
 
 ### Sing O Muse 4
 
-### Apollo [5](https://www.washingtontimes.com/news/2019/oct/16/harold-bloom-against-the-school-of-resentment/)[,](https://www.theguardian.com/commentisfree/2019/oct/20/harold-bloom-defence-of-western-greats-blinded-him-to-other-cultures) [6](https://www.washingtonpost.com/outlook/2019/10/24/how-harold-bloom-misunderstood-fall-humanities/)
+### [Apollo](http://archives.news.yale.edu/v29.n1/story4.html) [5](https://www.washingtontimes.com/news/2019/oct/16/harold-bloom-against-the-school-of-resentment/)[,](https://www.theguardian.com/commentisfree/2019/oct/20/harold-bloom-defence-of-western-greats-blinded-him-to-other-cultures) [6](https://www.washingtonpost.com/outlook/2019/10/24/how-harold-bloom-misunderstood-fall-humanities/)
  
